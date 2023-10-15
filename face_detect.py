@@ -6,7 +6,6 @@ THRESHOLD_VALUE = 100
 
 videocap = cv2.VideoCapture(
     0
-    # r"C:\Users\zuraj\OneDrive\Desktop\OpenCV\motion_detection\Ping Pong Balls Bouncing Sound Effect and Stock Video.mp4"
 )
 
 output_file = r"motion_detection\motion_locator_video.mp4"
